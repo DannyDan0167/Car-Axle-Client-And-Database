@@ -46,8 +46,14 @@
     {
         "name": "Blooket Hacks",
         "desc": "Original Blooket Cheats",
-        "author": { "name": "DannyDan0167", "link": "https://github.com/006konz"},
+        "author": { "name": "005konz", "link": "https://github.com/006konz"},
         "url": "https://raw.githubusercontent.com/005Konz/Blooket-Cheats/main/cheats/gui.min.js"
+    },
+    {
+        "name": "Ego Chat",
+        "desc": "A chatroom from the ego menu",
+        "author": { "name": "yeahbread)", "link": "https://github.com/yeahbread"},
+        "url": "https://raw.githubusercontent.com/DannyDan0167/Car-Axle-Client-Maintained/main/Ego%20Chat"
     },
     {
         "name": "Autoclicker",
