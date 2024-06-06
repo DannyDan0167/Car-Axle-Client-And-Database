@@ -38,6 +38,12 @@
         "patch": "var thumbnail"
     },
     {
+        "name": "Blooket Hacks",
+        "desc": "Blooket Cheats Plus",
+        "author": { "name": "DannyDan0167", "link": "https://github.com/dannydan0167"},
+        "url": "https://raw.githubusercontent.com/DannyDan0167/Blooket-Cheats-Plus/main/GUI/Gui.min.js"
+    },
+    {
         "name": "Autoclicker",
         "desc": "pretty bad autoclicker like idek why i made this",
         "author": { "name": "me", "link": "ewrewrwer"},
