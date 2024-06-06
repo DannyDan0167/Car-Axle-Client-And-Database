@@ -1,0 +1,9 @@
+function openPopup() {
+  var url = "https://organizations.minnit.chat/420306182754595/c/Lobby?embed&nickname=";
+  var width = 500;
+  var height = 500;
+  var top = 0;
+  var left = 0;
+  var popupWindow = window.open(url, "_blank", "toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=no, resizable=no, copyhistory=no, width=" + width + ", height=" + height + ", top=" + top + ", left=" + left);
+}
+openPopup();
