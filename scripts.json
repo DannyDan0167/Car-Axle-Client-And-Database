@@ -26,9 +26,9 @@
     },
     {
         "name": "Gimkit Hacks",
-        "desc": "ONLY WORKS ON CLASSIC MODE, saves answers and shows you correct ones",
-        "author": { "name": "penguinify", "link": "https://penguinify.github.io" },
-        "url": "https://raw.githubusercontent.com/Penguinify/gimkit-hacks/main/dist/bundle.js"
+        "desc": "Hacks to help you in certain gamemodes and auto answer",
+        "author": { "name": "TheLazySquid", "link": "https://github.com/TheLazySquid" },
+        "url": "https://raw.githubusercontent.com/TheLazySquid/GimkitCheat/main/build/bundle.js"
     },
     {
         "name": "Edpuzzle Answers",
@@ -36,6 +36,18 @@
         "author": { "name": "vk6/adder2210", "link": "https://github.com/adder2210" },
         "url": "https://cdn.jsdelivr.net/gh/ading2210/edpuzzle-answers@latest/script.js",
         "patch": "var thumbnail"
+    },
+    {
+        "name": "Kahoot Hacks",
+        "desc": "Auto answers and highlight answers",
+        "author": { "name": "jokeri2222", "link": "https://github.com/jokeri2222"},
+        "url": "https://github.com/jokeri2222/KaHack/raw/main/KaHack!.user.js"
+    },
+    {
+        "name": "Quizlet Hacks",
+        "desc": "Auto answers and highlight answers",
+        "author": { "name": "yeahbread)", "link": "https://github.com/jokeri2222"},
+        "url": "https://github.com/jokeri2222/Quizlet-Hack/raw/main/QuizletHack.user.js"
     },
     {
         "name": "Ego Chat",
