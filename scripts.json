@@ -41,13 +41,13 @@
         "name": "Kahoot Hacks",
         "desc": "Auto answers and highlight answers",
         "author": { "name": "jokeri2222", "link": "https://github.com/jokeri2222"},
-        "url": "https://github.com/jokeri2222/KaHack/raw/main/KaHack!.user.js"
+        "url": "https://cdn.jsdelivr.net/gh/jokeri2222/KaHack/KaHack!.user.js"
     },
     {
         "name": "Quizlet Hacks",
         "desc": "Auto answers and highlight answers",
         "author": { "name": "yeahbread)", "link": "https://github.com/jokeri2222"},
-        "url": "https://github.com/jokeri2222/Quizlet-Hack/raw/main/QuizletHack.user.js"
+        "url": "https://cdn.jsdelivr.net/gh/jokeri2222/Quizlet-Hack/QuizletHack.user.js"
     },
     {
         "name": "Ego Chat",
