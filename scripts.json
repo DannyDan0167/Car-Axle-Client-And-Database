@@ -38,18 +38,6 @@
         "patch": "var thumbnail"
     },
     {
-        "name": "Blooket Cheats Plus",
-        "desc": "New blooket hacks that are better then the original",
-        "author": { "name": "DannyDan0167", "link": "https://github.com/dannydan0167"},
-        "url": "https://raw.githubusercontent.com/DannyDan0167/Blooket-Cheats-Plus/main/GUI/Gui.min.js"
-    },
-    {
-        "name": "Blooket Hacks",
-        "desc": "Original Blooket Cheats",
-        "author": { "name": "005konz", "link": "https://github.com/006konz"},
-        "url": "https://raw.githubusercontent.com/005Konz/Blooket-Cheats/main/cheats/gui.min.js"
-    },
-    {
         "name": "Ego Chat",
         "desc": "A chatroom from the ego menu",
         "author": { "name": "yeahbread)", "link": "https://github.com/yeahbread"},
