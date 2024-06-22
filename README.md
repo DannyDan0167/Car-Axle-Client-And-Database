@@ -1,5 +1,5 @@
 <div align="center">
-
+### If you want a cheat/hack on the gui you can make an issue with your script and I might put it
 ### The **MOST POPULAR** bookmarklet menu. Proxies, games, and exploits in a clean ui. (by @penguinify) 
 ### Database maintained and updated by @DannyDan0167
 
